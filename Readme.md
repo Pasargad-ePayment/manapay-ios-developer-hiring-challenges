@@ -7,7 +7,7 @@ We are looking for professional iOS developers to join our team. Instead of goin
 
 ### Challenges
 
-1. [Listing restaurants around Vanak Sq.](challenges/a.md)
+1. [List restaurants around Vanak Sq.](challenges/a.md)
 
 ### Submission
 
