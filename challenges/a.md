@@ -6,4 +6,8 @@
 ### Notes
 
 * Please use `stage.reyhoon.com` as host
-* We care about _coding style_, _choosing external dependencies_, _your repo's history_, _your storyboard_, ... while we try to choose our colleague between applicants. It'd be important for us if you care enough about these matters too
+* We care about _coding style_, _choosing external dependencies_, _your repo's history_, _your storyboard_, ... in selecting our colleagues from among the applicants. It'd be important for us if you care enough about these matters too
+
+### Acknowledgement
+
+My deepest gratitude to our friends at [Reyhoon](reyhoon.com) for their passion in designing their products.
