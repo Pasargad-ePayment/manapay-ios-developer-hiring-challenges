@@ -19,6 +19,6 @@ Regards,
 
 ### Links
 
-* [لیست APIهای ارائه شده توسط سایت‌های ایرانی](https://github.com/Hameds/APIs-made-in-Iran)
-* [API ریحون](https://documenter.getpostman.com/view/3187934/reyhoon/7E8iG3p)
+* [Reyhoon API](https://documenter.getpostman.com/view/3187934/reyhoon/7E8iG3p)
+* [Iranian APIs](https://github.com/Hameds/APIs-made-in-Iran)
 * [MBTI Test](https://www.iranzehn.com/pages/tests/mbti/test.aspx)
